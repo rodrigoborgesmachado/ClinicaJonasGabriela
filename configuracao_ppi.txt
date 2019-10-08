@@ -1,0 +1,6 @@
+nome banco: 2359910_jonasgabriela
+senha: gabrielajonas123
+Subdominio: jonasgabriela.scienceontheweb.net
+Client ID: 2359910
+
+Para enviar os dados deve-se utilizar o WinSCP.
